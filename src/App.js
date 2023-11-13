@@ -5,7 +5,7 @@ export default function App() {
   return <HelloWorldArticle />;
 }
 
-export function HelloWorldArticle() {
+function HelloWorldArticle() {
   return <article>
     <h1>Hello Article</h1>
     <p>
